@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\source\\repos\\RGR_num2\\RGR_Tanya\\RGR_Tanya.csproj": {}
+    "C:\\Users\\Я\\source\\repos\\RGR_num3\\RGR_Tanya\\RGR_Tanya.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\source\\repos\\RGR_num2\\RGR_Tanya\\RGR_Tanya.csproj": {
+    "C:\\Users\\Я\\source\\repos\\RGR_num3\\RGR_Tanya\\RGR_Tanya.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\RGR_num2\\RGR_Tanya\\RGR_Tanya.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\RGR_num3\\RGR_Tanya\\RGR_Tanya.csproj",
         "projectName": "RGR_Tanya",
-        "projectPath": "C:\\Users\\Я\\source\\repos\\RGR_num2\\RGR_Tanya\\RGR_Tanya.csproj",
+        "projectPath": "C:\\Users\\Я\\source\\repos\\RGR_num3\\RGR_Tanya\\RGR_Tanya.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\source\\repos\\RGR_num2\\RGR_Tanya\\obj\\",
+        "outputPath": "C:\\Users\\Я\\source\\repos\\RGR_num3\\RGR_Tanya\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
