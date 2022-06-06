@@ -1,0 +1,14 @@
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.exe
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.deps.json
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.runtimeconfig.json
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.runtimeconfig.dev.json
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.dll
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\bin\Debug\netcoreapp3.1\RGR_Tanya.pdb
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.AssemblyInfo.cs
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.dll
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.pdb
+C:\Users\Я\source\repos\RGR_Tanya\RGR_Tanya\obj\Debug\netcoreapp3.1\RGR_Tanya.genruntimeconfig.cache
